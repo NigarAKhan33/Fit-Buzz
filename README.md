@@ -11,5 +11,7 @@
   - CSS
   - JAVASCRIPT
   - JQUERY
+ 
+    
 
   <img width="974" height="480" alt="image" src="https://github.com/user-attachments/assets/08430da5-0e3f-4eea-b353-d1426ba58cda" />
