@@ -10,4 +10,15 @@
 - HTML 
 - CSS
 - JavaSCript
+
+
+# Below is the Home page of the website.
+
+
+
+
+
+
+  <img width="974" height="480" alt="image" src="https://github.com/user-attachments/assets/bdc0bfbb-063e-40af-a3bc-78a4aeb855d0" />
+
   
